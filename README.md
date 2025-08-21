@@ -20,7 +20,7 @@
 - My learning journey  
 - How I started with coding
 
-## 📫 How to reach me:* 
+## 📫 How to reach me: 
 - Email: zannat.alif0810@gmail.com 
 - LinkedIn: [[Your LinkedIn link]](https://www.linkedin.com/in/effat-ul-zannat-alif-alif-955551379?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
