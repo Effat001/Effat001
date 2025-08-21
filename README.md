@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there 👋  
+# I'm Effat, a passionate beginner in programming.
 
+## 🖥️ Currently learning: 
+- C programming  
+- Java fundamentals  
+- Basic problem solving
 
-**Effat001/Effat001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Goals:
+- Build strong programming foundations  
+- Learn Data Structures and Algorithms  
+- Explore software development gradually
 
-Here are some ideas to get you started:
+## 📚 Learning style:
+- Hands-on coding practice  
+- Exploring open-source projects  
+- Taking small steps consistently
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 💬 Ask me about:  
+- My learning journey  
+- How I started with coding
 
+## 📫 How to reach me:* 
+- Email: zannat.alif0810@gmail.com 
+- LinkedIn: [[Your LinkedIn link]](https://www.linkedin.com/in/effat-ul-zannat-alif-alif-955551379?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+## 🎯 Fun fact: I'm excited by how a few lines of code can solve real-world problems!
