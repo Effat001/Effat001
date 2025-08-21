@@ -36,7 +36,3 @@ I'm excited by how a few lines of code can solve real-world problems!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Effat001)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Effat001&show_icons=true&count_private=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Effat001/contributions?format=svg&private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/Effat001)  
