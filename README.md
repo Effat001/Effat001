@@ -20,9 +20,13 @@
 - My learning journey  
 - How I started with coding
 
-## 📫 How to reach me: 
-- Email: zannat.alif0810@gmail.com 
-- LinkedIn: [[Your LinkedIn link]](https://www.linkedin.com/in/effat-ul-zannat-alif-alif-955551379?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+## 📫 Connect with me:
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/176dFH2poy/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/effat_ul_zannat_alif?igsh=MXNsMjgxdW4wbmRtNg==)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/effat-ul-zannat-alif-alif-955551379?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zannat.alif0810@gmail.com)
+
 
 ## 🎯 Fun fact:
 I'm excited by how a few lines of code can solve real-world problems!
