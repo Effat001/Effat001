@@ -36,7 +36,9 @@
 
 ## 💻 Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,python,html,css,js,bootstrap,git,github,vscode,canva" />
+  <img src="https://skillicons.dev/icons?i=c,java,html,github,vscode,idea" />
+  <img src="https://img.shields.io/badge/Code::Blocks-000000?style=for-the-badge&logo=codeblocks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
 </p>
 
 ---
