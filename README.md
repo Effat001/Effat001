@@ -40,9 +40,6 @@
   <img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" width="40" height="40" alt="Canva"/>
 </p>
 
-
-
-
 ---
 
 ## 📊 GitHub Stats
